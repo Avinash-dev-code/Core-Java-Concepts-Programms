@@ -16,7 +16,7 @@ class StringIntroduction
         System.out.println(name.trim());  // this will remove extra space
 
 
-       ;
+       
 
 
     }
