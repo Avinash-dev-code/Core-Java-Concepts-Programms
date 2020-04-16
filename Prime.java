@@ -24,7 +24,7 @@ class Prime
         {
                  isPrime=false;
         }
-        System.out.println(" is Prime"+isPrime);
+        System.out.println(n+" "+" is Prime"+" "+isPrime);
         
         
     }
